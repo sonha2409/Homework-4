@@ -114,14 +114,4 @@ public class Homework4 {
         }
         return array;
     }
-
-
-    public static void main(String[] args) {
-        int[] ga = {0, 6, 4, 100};
-        int a[] = sortArray(ga);
-        System.out.println(a[1]);
-    }
-
-    ;
-
 }
